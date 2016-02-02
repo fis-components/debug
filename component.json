@@ -2,11 +2,9 @@
     "name": "debug",
     "description": "small debugging utility",
     "repos": "https://github.com/visionmedia/debug.git",
-    "main": "./browser.js",
+    "main": "lib/debug.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {
-        "ms": "0.7.1"
-    },
-    "version": "2.2.0"
+    "dependencies": {},
+    "version": "0.7.2"
 }
