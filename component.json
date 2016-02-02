@@ -2,9 +2,9 @@
     "name": "debug",
     "description": "small debugging utility",
     "repos": "https://github.com/visionmedia/debug.git",
-    "main": "lib/debug.js",
+    "main": "./debug.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
-    "version": "0.7.3"
+    "version": "0.7.4"
 }
